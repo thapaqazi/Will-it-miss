@@ -41,8 +41,8 @@ export default function App() {
   return (
     <div>
       <p>
-        {format(addDays(new Date(), 1), 'EEEE d-MMM')} there will be{' '}
-        <strong>{results.length}</strong> near misses
+        {format(addDays(new Date(), 1), 'EEEE d-MMM')} Love you {' '}
+        <strong>{results.length}</strong> gante mula.
       </p>
       <hr></hr>
       {results
